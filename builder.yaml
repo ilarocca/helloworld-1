@@ -1,4 +1,4 @@
 projectType: "Java"
 buildTool: "maven"
-path: "C:/Users/Ivan/Projects"
+projectPath: "C:/Users/Ivan/Projects"
 version: 2.1
